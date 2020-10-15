@@ -1,2 +1,1 @@
-# rock-paper-scissor
-game
+# rocker-paper-scissors
